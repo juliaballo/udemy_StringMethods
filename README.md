@@ -1,3 +1,3 @@
 # udemy_StringMethods
 
-Udemy, Section 15, Exercise 18 (String Method Practice)
+Udemy, Section 15, Exercise 18 & 19 (String Method Practice)
